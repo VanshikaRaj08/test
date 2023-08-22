@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vanshika
-Skills: HTML, CSS, JS, NodeJs, Programming Languages, DSA
-Email: vanshipurohit1322@gmail.com
-{{/user}}
